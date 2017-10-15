@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ```ruby
 def set_copyright
-  @copyright = LtxViewTool::Renderer.copyright('ArmandoLtx', 'All Rights Reserved')
+  @copyright = ArmandoltxViewTool::Renderer.copyright('ArmandoLtx', 'All Rights Reserved')
 end
 ```
 ## Development
